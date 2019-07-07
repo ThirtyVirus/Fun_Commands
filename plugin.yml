@@ -1,0 +1,20 @@
+main: thirtyvirus.fun.FunCommands
+version: 1.0
+name: FunCommands
+api-version: 1.13
+
+commands:
+  funhelp:
+    description: List all FunCommands commands.
+  funreload:
+    description: Reload config.
+  anvil:
+    description: Brings up an anvil interface for the player.
+  milk:
+    description: Removes all potion effects from a player. FORMAT /milk playerName OR /milk
+  rename:
+    description: Renames item in hand.
+  smelt:
+    description: Smelt the item in your hand.
+  fb:
+    description: Easy fireball command!
